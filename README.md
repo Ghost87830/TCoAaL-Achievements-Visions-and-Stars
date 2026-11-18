@@ -1,4 +1,4 @@
-# TCoAaL-Achievements-Stars-and-Visions
+# TCoAaL-Achievements-Visions-and-Stars
 ## Quick method for the achievement hunters out there ;-)
 
 Add and delete save files from ```%appdata%\CoffinAndyLeyley``` **DO NOT DELETE ```global.rpgsave``` OR ```config.settings```**
