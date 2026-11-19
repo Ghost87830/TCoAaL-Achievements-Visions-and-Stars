@@ -9,3 +9,10 @@ Download the .rpgsave files that you need and rename them to fit in empty slots 
 
 Use the vision unlock folder first - All you will need to do is load into the save folder and interact with the kart 
 
+-All Steam achievements
+-Every collectible Star
+-Every Vision
+
+**Game:** The Coffin of Andy and Leyley
+**Abbreviation:** TCOAAL
+**Platform:** Steam / PC
