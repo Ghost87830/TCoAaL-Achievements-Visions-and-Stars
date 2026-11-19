@@ -14,5 +14,8 @@ Use the vision unlock folder first - All you will need to do is load into the sa
 -Every Vision
 
 **Game:** The Coffin of Andy and Leyley
+
 **Abbreviation:** TCOAAL
+
 **Platform:** Steam / PC
+
